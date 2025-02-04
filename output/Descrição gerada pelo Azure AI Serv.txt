@@ -1,0 +1,11 @@
+Descrição gerada pelo Azure AI Services:
+
+- Objetos detectados: 1 pessoa
+- Posição: Centro da imagem
+- Expressão facial: Neutra/confiante
+- Traços principais: Pessoa de pele clara, cabelo escuro, óculos de grau, brincos, usando uma camisa polo branca com detalhes pretos
+- Plano de fundo: Preto sólido
+- Estado emocional: Neutro
+- Idade estimada: Jovem adulto
+- Gênero estimado: Masculino
+- Itens identificados: Corrente no pescoço, pulseira no braço
